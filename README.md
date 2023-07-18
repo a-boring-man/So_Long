@@ -1,3 +1,5 @@
+![](https://github.com/a-boring-man/So_Long/blob/main/100_score_icon.png)
+
 # So_Long
 
 A early 42 Project
